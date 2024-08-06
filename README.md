@@ -1,5 +1,6 @@
 # Dotfiles
 
+**DEPRECATED**
 
 Dotfiles management is done through `GNU Stow`.
 .
